@@ -1,0 +1,7 @@
+python-telegram-bot
+aiohttp
+requests
+pycryptodome
+colorama
+protobuf
+urllib3
